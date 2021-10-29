@@ -27,9 +27,7 @@ public class MainActivity extends AppCompatActivity {
            @Override
            public void onClick(View view) {
 
-               Toast.makeText(context: MainActivity.this, text: "Your conversion is complete!", Toast.LENGTH_LONG){
-
-               }
+              
            }
 
        });
